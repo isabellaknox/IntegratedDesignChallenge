@@ -2,7 +2,7 @@
 ECE 110: Introduction to Circuits Integrated Design Challenge
 
 
-This holds the weekly schedule, updates, gantt chart, and the final report of this semester long process.
+This holds the weekly schedule, updates, gantt chart, and the final report of this semester long process. Final report holds all the code used.
 
 ABSTRACT:
 
